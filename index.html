@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link href="styles.css" rel="stylesheet">
+    <title>BLE Web App</title>
+</head>
+
+<body>
+    <div class="flex-container-heading">
+        <p style="font-size: 25px;">Simple Web App<br>PSoC Control Using BLE</p>
+    </div>
+    <div class="row" style="margin-bottom: 15px;">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <div class="flex-container-top">
+                <button id="connect" type="button" class="flex-container-button"
+                    style="background-color: rgb(127, 255, 138);">Connect</button>
+                <button   id="disconnect" type="button" class="flex-container-button"
+                    style="background-color: rgb(226, 43, 43);">Disconnect</button>
+            </div>
+            <div class="flex-container-bottom" style="flex-direction: column; padding-left: 10px;">
+                <h4>Connection Datalog</h4>
+                <div id="datalog"></div>
+            </div>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+    <div class="row" style="margin-bottom: 15px;">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <div class="flex-container-top"
+                style="justify-content: space-around; align-items:center ; flex-direction: column;">
+                <h4>Sensor Data From PSoC</h4>
+                <div id="dataFromBle"></div>
+            </div>
+            <div class="flex-container-bottom">
+                <button  id="subscribe" type="button" class="flex-container-button"
+                    style="background-color: rgb(255, 161, 46);">Subscribe</button>
+                <button   id="unsubscribe" type="button" class="flex-container-button"
+                    style="background-color: rgb(255, 161, 46);">Unsubscribe</button>
+            </div>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+    <div class="row" style="margin-bottom: 15px;">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <div class="flex-container-top" style="justify-content: center; padding-left: 10px;">
+                <h4>LED Control</h4>
+            </div>
+            <div class="flex-container-bottom-control" style="justify-content: space-around;">
+                <button   id="no_alert" type="button" class="flex-container-control-button">No
+                    alert</button>
+                <button   id="mild_alert" type="button" class="flex-container-control-button">Mild
+                    alert</button>
+                <button   id="high_alert" type="button" class="flex-container-control-button">High
+                    alert</button>
+            </div>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <div class="flex-container-top" style="justify-content: center; padding-left: 10px;">
+                <h4>Send data to PSoC</h4>
+            </div>
+            <div class="flex-container-bottom-control" style="justify-content: center;">
+                <form id="send-form" class="form">
+                    <input id="input" type="text" style="font-size: 20px; width: 200px; margin-bottom: 10px;">
+                    <button   type="submit" class="flex-container-control-button">Send</button>
+                </form>
+            </div>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
