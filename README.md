@@ -856,3 +856,11 @@ function writeToCharacteristic(characteristic, data) {
 
 7. The PSoC will display the message received from the web app in the PuTTY terminal.
 ![Alt text](Images/AppTesting5.png)
+
+
+## References
+1. https://loginov-rocks.medium.com/how-to-make-a-web-app-for-your-own-bluetooth-low-energy-device-arduino-2af8d16fdbe8
+2. chrome://bluetooth-internals/#adapter
+3. https://forum.digikey.com/t/psoc-4-ble-simple-gap-peripheral-gatt-server-example/12857
+4. https://developer.chrome.com/articles/bluetooth/
+
