@@ -113,7 +113,7 @@ subscribeData = (connectionKey) => {
 
 // Data receiving
 function handleCharacteristicValueChanged(event, data) {
-  //data?.readValue()
+  data?.readValue()
   let myData = document.getElementById("dataFromBle")
   myData.innerHTML = dataViewToDecimal(event.target.value)
 }
