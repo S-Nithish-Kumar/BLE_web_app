@@ -1,0 +1,6 @@
+S:\Grader\PSoC Creator\projects\BLE_bidirectional_communication\BLE_bidirectional_communication\BLE_custom_service_characteristics.cydsn\BLE_custom_service_characteristics.cyprj|14c75d12-ff65-4899-8f11-42f6a1531aa5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e658df0d-c0cc-4cf9-aa70-6bf421c0d8a0
+C:\Users\Nithish\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|686240be-0255-4527-a864-625ae2b5e918
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|36248b5a-cd8a-4590-9327-3ba1c065215c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a79f85bb-8136-4c72-b315-27441ec9f513
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f62bdadf-94d9-4d83-b427-008a66249174

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_custom_service_characteristics-000</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\TopDesign</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Pins</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Analog</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Clocks</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Interrupts</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\System</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Directives</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Flash Security</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Header Files</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Header Files\cyapicallbacks.h</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Source Files</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Source Files\main.c</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Generated_Source</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_custom_service_characteristics-000</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\TopDesign</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Pins</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Analog</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Clocks</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Interrupts</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\System</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Directives</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.cydwr\Flash Security</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Header Files</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Header Files\cyapicallbacks.h</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Source Files</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Source Files\main.c</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Generated_Source</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Generated_Source\PSoC4</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Generated_Source\PSoC4\ADC_1</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Generated_Source\PSoC4\ADC_1_intClock</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\Generated_Source\PSoC4\ADC_1_IRQ</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_custom_service_characteristics-000</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\TopDesign</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_custom_service_characteristics-000</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\TopDesign</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_custom_service_characteristics-000</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1_INT.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1_intClock.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1_IRQ.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1_PM.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_bless_isr.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_custom.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_eventHandler.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_gatt.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_INT.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_PVT.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\LED.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_PM.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\Pot_Output.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\Pot_Output_PM.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_1_INT.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\BLE_custom_service_characteristics.elf</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\BLE_custom_service_characteristics.hex</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\BLE_custom_service_characteristics.map</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.gpdsc</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics.rpt</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\BLE_custom_service_characteristics_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_custom_service_characteristics-000</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1_INT.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1_intClock.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1_IRQ.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_1_PM.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_bless_isr.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_custom.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_eventHandler.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_gatt.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_INT.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_PVT.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_custom_service_characteristics-000</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\PSoC 4 Architecture TRM</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\System Reference Guides</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_custom_service_characteristics-000</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\PSoC 4 Architecture TRM</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_custom_service_characteristics-000\BLE_custom_service_characteristics\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\BLE_custom_service_characteristics.cydwr" />
+<name v=".\main.c" />
+<name v=".\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1142, 541" SelectedTabbedMdiWindow="56850d19-0833-4c0c-9f8e-008508e65afd"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="1e370852-9941-4b48-8683-2274bc13bc15" /><DocumentWindow Key="S:\Grader\App_Development\web_app\web_app3\BLE_custom_service_characteristics.cydsn\BLE_custom_service_characteristics.cydwr" Guid="52834cb0-3b4e-4f23-a18e-12c2b176ff83" /><DocumentWindow Key="S:\Grader\App_Development\web_app\web_app3\BLE_custom_service_characteristics.cydsn\main.c" Guid="c527e13b-2f1d-4219-8180-682c2a7e7c0c" /><DocumentWindow Key="S:\Grader\App_Development\web_app\web_app3\BLE_custom_service_characteristics.cydsn\TopDesign\TopDesign.cysch" Guid="56850d19-0833-4c0c-9f8e-008508e65afd" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
