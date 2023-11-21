@@ -247,7 +247,7 @@ The user interface consists of three main components: HTML, CSS, JavaScript.
 + [CSS](https://www.w3schools.com/css/default.asp) - Describes how HTML elements are to be displayed on screen.
 - [JavaScript](https://www.w3schools.com/js/default.asp) - JavaScript is a scripting language used to create and control dynamic website content. It provides functionality to the UI elements created using HTML.
 
-This is how your final web app looks like after hosted in github.
+This is how your final web app looks after being hosted on GitHub.
 
 ![BLE web app hosted in github](Images/GitPushStep5.PNG)
 
