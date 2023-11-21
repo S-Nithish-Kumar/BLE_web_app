@@ -18,6 +18,7 @@ This tutorial guides you through the process of creating a web application using
 ## PSoC Setup
 ### Top Design and component configuration
 Add the following components in the Top Design of the PSoC Creator.
+
 ![Top Design](Images/topDesign.PNG)
 
 #### PWM subsystem
@@ -242,11 +243,34 @@ int main(void)
 ## User Interface
 The user interface consists of three main components: HTML, CSS, JavaScript.
 
-* HTML - Standard markup language for creating UI elements of web pages and web applications.
-+ CSS - Describes how HTML elements are to be displayed on screen.
-- JavaScript - JavaScript is a scripting language used to create and control dynamic website content. It provides functionality to the UI elements created using HTML.
+* [HTML](https://www.w3schools.com/html/) - Standard markup language for creating UI elements of web pages and web applications.
++ [CSS](https://www.w3schools.com/css/default.asp) - Describes how HTML elements are to be displayed on screen.
+- [JavaScript](https://www.w3schools.com/js/default.asp) - JavaScript is a scripting language used to create and control dynamic website content. It provides functionality to the UI elements created using HTML.
+
+This is how your final web app looks like after hosted in github.
+
+![BLE web app hosted in github](Images/GitPushStep5.PNG)
+
+Before moving on to the coding part, you can click on the [link](https://s-nithish-kumar.github.io/BLE_web_app/) to open the web app hosted in github and check the app functionalities with your PSoC programmed. 
+
+#### Tips
+1. Use VS code for creating HTML, CSS, Javascript files. VS code has extenstion which will help you auto complete some keywords.
+2. Additionally, it has an extension for live server allowing you to view your website locally. This will be helpful during the development phase of your website where you can host your website locally and test out the functionalities.
+3. To install live server click on extensions and search for live server. It will show a list of extensions choose the one which is in the image below and install it.
+
+![Live Server Installation in VS code](Images/VSCodeLiveServerInstallation.PNG)
+
+4. To open your live server, right click on your HTML code and click Open with Live Server 
+
+![Opening Live Server](Images/VSCodeOpenLiveServer.png)
+
+5. Your website will be hosted locally on your default browser (recommended browser: Chrome)
+
+![Alt text](Images/WebsiteHostedUsingLiveServer.PNG)
+
 
 ### HTML
+[HTML](https://www.w3schools.com/html/) - Hypertext Markup Language
 1. Specify the document type and language
 ```
 <!DOCTYPE html>
@@ -361,6 +385,8 @@ The user interface consists of three main components: HTML, CSS, JavaScript.
 ```
 
 ### CSS
+[CSS](https://www.w3schools.com/css/default.asp) - Cascading Style Sheets
+
 * The visual appeal of the UI elements created using HTML are enhanced using CSS.
 + class selectors are used to specify the properties of the UI elements.
 - CSS media query is used to define a set of rules for varying screen sizes which makes the web app responsive. You can change the window size to view the alignment changes of the UI elements.
@@ -452,6 +478,7 @@ padding-bottom: 20px;
 ```
 
 ### JavaScript
+[JavaScript](https://www.w3schools.com/js/default.asp)
 1. Get references to the UI elements using their Ids.
 ```
 // Get references to UI elements
@@ -799,15 +826,19 @@ function writeToCharacteristic(characteristic, data) {
 
 ## Hosting the web app in Github
 1. Sign in into your github account. Click on the plus symbol and new repository.
+
 ![Create new repository](Images/GithubNewRepo.PNG)
 
 2. Provide a repository name and check the Add a README file check box.
+
 ![Configure repository](Images/GithubCreateRepo.PNG)
 
 3. This is how your github page looks after creating the repository.
+
 ![Github page after creating repository](Images/GithubRepoAfterCreating.PNG)
 
 4. Navigate to github pages in settings and change the branch to main.
+
 ![Change the branch to main](Images/GithubRepoBranchMain.PNG)
 
 5. Open command prompt and navigate to the folder where you have the HTML, CSS and JavaScript files in your local machine and follow the steps below to modify the folder into a local git repository.
@@ -816,21 +847,26 @@ function writeToCharacteristic(characteristic, data) {
     3. git add .    # To stage all files.
     4. git status   # Check the status again.
     5. git commit -m "Add a comment here"   # commit the staged files.
+
 ![Creating git repository in local machine](Images/GitPushStep1.PNG)
 
 6. Now you have the git repo available in your local machine. You can push the repo to github. 
     1. In the github page, click on code and copy the github repo URL
     2. In command prompt type, git pull 'Paste your github repo URL here' --allow-unrelated-histories
     3. In command prompt type, git push 'Paste your github repo URL here' main
+
 ![Copy repository URL](Images/GitPushStep2.PNG)
 
 7. This is how your repository looks like after pushing the local repository.
+
 ![Github page after uploading local git repository](Images/GitPushStep3.PNG)
 
 8. After few minutes navigate to github pages in settings and click on the URL generated to open the live site.
+
 ![Webpage URL](Images/GitPushStep4.PNG)
 
 9. This is how the web app looks like.
+
 ![BLE web app hosted in github](Images/GitPushStep5.PNG)
 
 10. Now you will be able to access the web app using the URL on any device.
@@ -838,23 +874,29 @@ function writeToCharacteristic(characteristic, data) {
 
 ## App testing
 1. Connect a potentiometer/sensor to the PSoC.
+
 ![PSoC setup](Images/PSoCSetup.jpg)
 
 2. Open the web app and connect to the PSoC.
+
 ![Connect to the BLE device](Images/AppTesting1.png)
 
 3. Click on the subscribe button to read values from the potentiometer/sensor.
+
 ![Alt text](Images/AppTesting2.png)
 
 4. Use the alert buttons to control LED
 
 5. Open PuTTY and configure the serial line and speed. The serial line might be different for your system. You can find the communication port in the device manager. Once configured click on open.
+
 ![Alt text](Images/AppTesting3.png)
 
 6. Type something in the text box and click on send.
+
 ![Alt text](Images/AppTesting4.png)
 
 7. The PSoC will display the message received from the web app in the PuTTY terminal.
+
 ![Alt text](Images/AppTesting5.png)
 
 
@@ -863,4 +905,6 @@ function writeToCharacteristic(characteristic, data) {
 2. chrome://bluetooth-internals/#adapter
 3. https://forum.digikey.com/t/psoc-4-ble-simple-gap-peripheral-gatt-server-example/12857
 4. https://developer.chrome.com/articles/bluetooth/
-
+5. https://www.w3schools.com/html/
+6. https://www.w3schools.com/css/default.asp
+7. https://www.w3schools.com/js/default.asp
